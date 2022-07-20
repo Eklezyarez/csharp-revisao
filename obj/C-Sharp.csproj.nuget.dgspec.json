@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj": {}
+    "D:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj": {}
   },
   "projects": {
-    "d:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj": {
+    "D:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj",
+        "projectUniqueName": "D:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj",
         "projectName": "C-Sharp",
-        "projectPath": "d:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj",
+        "projectPath": "D:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\C-Sharp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\obj\\",
+        "outputPath": "D:\\Eklelzyarez\\Cursos EAD\\DIO\\UNIMED - BOOTCAMP\\C-Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,4 @@
+D:\Eklelzyarez\Cursos EAD\DIO\UNIMED - BOOTCAMP\C-Sharp\obj\Debug\netcoreapp3.1\C-Sharp.csprojAssemblyReference.cache
+D:\Eklelzyarez\Cursos EAD\DIO\UNIMED - BOOTCAMP\C-Sharp\obj\Debug\netcoreapp3.1\C-Sharp.AssemblyInfoInputs.cache
+D:\Eklelzyarez\Cursos EAD\DIO\UNIMED - BOOTCAMP\C-Sharp\obj\Debug\netcoreapp3.1\C-Sharp.AssemblyInfo.cs
+D:\Eklelzyarez\Cursos EAD\DIO\UNIMED - BOOTCAMP\C-Sharp\obj\Debug\netcoreapp3.1\C-Sharp.csproj.CoreCompileInputs.cache
