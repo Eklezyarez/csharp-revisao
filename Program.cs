@@ -1,4 +1,4 @@
-﻿using Syt;
+﻿using Sy;
 
 namespace C_Sharp
 {
